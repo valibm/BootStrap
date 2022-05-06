@@ -1,0 +1,39 @@
+.bg-purple-light{
+    background-color: #e0cffc;
+}
+
+.text-color-purple{
+    color: #8540f5;
+}
+
+.color-yellow{
+    color: #ffcd39
+}
+
+.color-red{
+    color: #dc3545;
+}
+
+.color-orange{
+    color: #fd7e14;
+}
+
+.bg-green-light{
+    background-color: #d2f4ea;
+}
+
+.text-color-green{
+    color: #20c997;
+} 
+
+.triangle {
+    width: 0;
+    height: 0;
+    border: 15px solid transparent;
+    border-top: 0;
+    border-bottom: 20px solid #0dcaf0;
+}
+
+.triangle:hover {
+    transform: rotate(180deg);
+}
